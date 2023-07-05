@@ -8,3 +8,6 @@ Para el mini proyecto ejercicio 3
 Ejecutar
 bundle install
 rails db:seed
+
+Crear la BBDD ejercicio3_development
+display con rails s
