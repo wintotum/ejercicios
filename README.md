@@ -7,4 +7,4 @@ ruby ejercicio2.rb
 Para el mini proyecto ejercicio 3
 Ejecutar
 bundle install
-rais db:seed
+rails db:seed
