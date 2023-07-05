@@ -11,3 +11,5 @@ rails db:seed
 
 Crear la BBDD ejercicio3_development
 display con rails s
+
+http://localhost:3000/people
